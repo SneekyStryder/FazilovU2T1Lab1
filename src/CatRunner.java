@@ -5,7 +5,7 @@ public class CatRunner {
         cat1.introduce();
         cat1.printCatInfo();
 
-        Cat cat2 = new Cat("Dino", 4, 8.2);
+        Cat cat2 = new Cat("Dino", 9, 8.2);
         cat2.introduce();
         cat2.printCatInfo();
 
